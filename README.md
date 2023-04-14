@@ -6,5 +6,5 @@ The survey form asks a few questions ranging from personal questions to how you 
 
 The project includes index.html and styles.css files, running the index.html file will start the form.
 
-This was done as part of the freecodecamp web design course, and is the first project.
+*This was done as part of the freecodecamp web design course, and is the first project.*
 
